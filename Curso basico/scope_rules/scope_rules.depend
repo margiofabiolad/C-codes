@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538793454 source:/home/marz/Dropbox/Posgrado/Tesis Cosmología/C/scope_rules/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540511977 source:/home/marz/Dropbox/Posgrado/Tesis Cosmología/C/structures/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

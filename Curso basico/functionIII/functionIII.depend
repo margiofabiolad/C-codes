@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538792184 source:/home/marz/Dropbox/Posgrado/Tesis Cosmología/C/functionIII/main.c
+	<stdio.h>
+	<stdlib.h>
+

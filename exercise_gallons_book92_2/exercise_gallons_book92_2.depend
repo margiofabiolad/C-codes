@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541982834 source:/home/marz/Dropbox/Posgrado/Tesis Cosmología/C/exercise_gallons_book92_2/main.c
+	<stdio.h>
+	<stdlib.h>
+

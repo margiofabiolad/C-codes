@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542493479 source:/home/marz/Dropbox/Posgrado/Tesis Cosmología/C/exercise2_tabla/main.c
+	<stdio.h>
+	<stdlib.h>
+
